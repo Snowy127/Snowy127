@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Snowy127
 - 🌱 I’m currently learning MQTT
 - 🤓 JS | HTML | CSS
+- 💞️ Angular
 - 🦆 Information technology integrator
 - 🐧 Cross-platform software developer
 <!---
